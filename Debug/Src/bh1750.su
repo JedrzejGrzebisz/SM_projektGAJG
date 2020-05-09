@@ -1,0 +1,2 @@
+bh1750.c:6:6:BH1750_Init	24	static
+bh1750.c:15:7:BH1750_Receive	32	static
