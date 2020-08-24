@@ -2,4 +2,4 @@
 Microprocessor systems project - light intensity control
 
 ## v1 - actual
-First(rated by the teacher) version with polish comments 
+First(rated by the teacher)
